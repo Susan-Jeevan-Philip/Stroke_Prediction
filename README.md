@@ -13,4 +13,4 @@ healthcare-dataset-stroke-data.csv - This file contains the data that is used in
 
 ploting.ipynb                      - In this file the data preprocessing and visual representation of data.
 
-Stroke_Prediction.ipynb            - this file contains the ML models.
+Stroke_Prediction.ipynb            - this file contains the ML models and confusion matrix.
