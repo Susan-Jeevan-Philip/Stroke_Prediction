@@ -8,3 +8,7 @@ The machine learning model will be developed using Python and the scikit-learn
 The performance of the machine learning model will be evaluated using several metrics, including accuracy, precision and recall. The model will be tested on a separate dataset to evaluate its ability to generalize to new, unseen data. 
 
 The potential benefits of this project are enormous and the goal is to make it easier for both individuals and healthcare professionals to take preventive actions and improve overall health. 
+
+healthcare-dataset-stroke-data.csv - This file contains the data that is used in this project.
+ploting.ipynb                      - In this file the data preprocessing and visual representation of data.
+Stroke_Prediction.ipynb            - this file contains the ML models.
