@@ -11,6 +11,6 @@ The potential benefits of this project are enormous and the goal is to make it e
 
 healthcare-dataset-stroke-data.csv - This file contains the data that is used in this project.
 
-Data Cleaning.ipynb                      - In this file the data preprocessing and visual representation of data.
+Cleaning_Plotting.ipynb/cleaning_plotting.py       - In this file the data preprocessing and visual representation of data.
 
-Stroke_Predict.ipynb/strock_predict.py            - this file contains the ML models and confusion matrix.
+Stroke_Predict.ipynb/strock_predict.py             - this file contains the ML models and confusion matrix.
